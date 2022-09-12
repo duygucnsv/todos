@@ -1,0 +1,27 @@
+body{
+  background : linear-gradient(90deg, #edabe2, #deae89);
+   margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.todos{
+background : #eee
+}
+
+.yapildi {
+  text-decoration: line-through;
+}
+
+.todos{
+  padding: 30px;
+  margin: 50px;
+  border-radius: 1%;
+}
+
+.btn{
+  color: rgb(68, 40, 113);
+}
