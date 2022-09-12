@@ -10,7 +10,7 @@ const Liste = () => {
 
   return (
     <Container className="todos border border-dark">
-      <h1>TODOS</h1>
+      <h1 className="h1">TODOS</h1>
 
       <InputGroup className="mb-3">
         <Form.Control

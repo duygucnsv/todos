@@ -25,3 +25,9 @@ background : #eee
 .btn{
   color: rgb(68, 40, 113);
 }
+
+.h1{
+  text-align: center;
+  
+  color: #9d8399;
+}
